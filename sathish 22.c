@@ -1,3 +1,4 @@
+#include<stdio.h>
 #include <stdio.h>
 
 int main()
@@ -18,7 +19,7 @@ int main()
     {
         printf("%d",a[2]);
     }
-    else(a[3]>a[1]&&a[3]>a[2]);
+    else
     {
         printf("%d",a[3]);
     }
